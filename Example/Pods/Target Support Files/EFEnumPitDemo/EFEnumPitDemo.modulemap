@@ -1,0 +1,6 @@
+framework module EFEnumPitDemo {
+  umbrella header "EFEnumPitDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

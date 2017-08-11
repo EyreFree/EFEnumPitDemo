@@ -1,0 +1,6 @@
+framework module Pods_EFEnumPitDemo_Tests {
+  umbrella header "Pods-EFEnumPitDemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

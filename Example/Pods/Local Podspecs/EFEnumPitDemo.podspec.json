@@ -1,0 +1,22 @@
+{
+  "name": "EFEnumPitDemo",
+  "version": "0.1.0",
+  "summary": "A short description of EFEnumPitDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/EyreFree/EFEnumPitDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "EyreFree": "zheng.xu03@ele.me"
+  },
+  "source": {
+    "git": "https://github.com/EyreFree/EFEnumPitDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EFEnumPitDemo/Classes/**/*"
+}

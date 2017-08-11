@@ -1,0 +1,16 @@
+PODS:
+  - EFEnumPitDemo (0.1.0)
+
+DEPENDENCIES:
+  - EFEnumPitDemo (from `../`)
+
+EXTERNAL SOURCES:
+  EFEnumPitDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EFEnumPitDemo: 42435808589ddbce3948ffc42b2d4e3fcc07f8a5
+
+PODFILE CHECKSUM: 4f4a44be8fc148d8abe51f9d61e5e333578ea734
+
+COCOAPODS: 1.2.1
